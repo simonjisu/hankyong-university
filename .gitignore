@@ -132,4 +132,7 @@ refs
 data/mnist
 data/cifar10
 data/hymenoptera_data
+data/fashionmnist
+data/airpollution
 states
+*.pt
