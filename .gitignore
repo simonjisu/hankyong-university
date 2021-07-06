@@ -136,3 +136,4 @@ data/fashionmnist
 data/airpollution
 states
 *.pt
+.DS_Store
